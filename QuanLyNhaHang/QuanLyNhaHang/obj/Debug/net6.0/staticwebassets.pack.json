@@ -1,0 +1,361 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Ha_tin\\LapTrinhWeb\\QuanLyNhaHang\\QuanLyNhaHang\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\QuanLyNhaHang.bundle.scp.css",
+      "PackagePath": "staticwebassets\\QuanLyNhaHang.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\Ha_tin\\LapTrinhWeb\\QuanLyNhaHang\\QuanLyNhaHang\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\Ha_tin\\LapTrinhWeb\\QuanLyNhaHang\\QuanLyNhaHang\\wwwroot\\css\\dataTables.bootstrap4.css",
+      "PackagePath": "staticwebassets\\css\\dataTables.bootstrap4.css"
+    },
+    {
+      "Id": "E:\\Ha_tin\\LapTrinhWeb\\QuanLyNhaHang\\QuanLyNhaHang\\wwwroot\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.css"
+    },
+    {
+      "Id": "E:\\Ha_tin\\LapTrinhWeb\\QuanLyNhaHang\\QuanLyNhaHang\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\Ha_tin\\LapTrinhWeb\\QuanLyNhaHang\\QuanLyNhaHang\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "E:\\Ha_tin\\LapTrinhWeb\\QuanLyNhaHang\\QuanLyNhaHang\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\Ha_tin\\LapTrinhWeb\\QuanLyNhaHang\\QuanLyNhaHang\\wwwroot\\font\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\font\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "E:\\Ha_tin\\LapTrinhWeb\\QuanLyNhaHang\\QuanLyNhaHang\\wwwroot\\font\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\font\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "E:\\Ha_tin\\LapTrinhWeb\\QuanLyNhaHang\\QuanLyNhaHang\\wwwroot\\font\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\font\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "E:\\Ha_tin\\LapTrinhWeb\\QuanLyNhaHang\\QuanLyNhaHang\\wwwroot\\font\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\font\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "E:\\Ha_tin\\LapTrinhWeb\\QuanLyNhaHang\\QuanLyNhaHang\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\Ha_tin\\LapTrinhWeb\\QuanLyNhaHang\\QuanLyNhaHang\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Ha_tin\\LapTrinhWeb\\QuanLyNhaHang\\QuanLyNhaHang\\wwwroot\\js\\chart-area-demo-6months.js",
+      "PackagePath": "staticwebassets\\js\\chart-area-demo-6months.js"
+    },
+    {
+      "Id": "E:\\Ha_tin\\LapTrinhWeb\\QuanLyNhaHang\\QuanLyNhaHang\\wwwroot\\js\\chart-area-demo.js",
+      "PackagePath": "staticwebassets\\js\\chart-area-demo.js"
+    },
+    {
+      "Id": "E:\\Ha_tin\\LapTrinhWeb\\QuanLyNhaHang\\QuanLyNhaHang\\wwwroot\\js\\chart-bar-demo.js",
+      "PackagePath": "staticwebassets\\js\\chart-bar-demo.js"
+    },
+    {
+      "Id": "E:\\Ha_tin\\LapTrinhWeb\\QuanLyNhaHang\\QuanLyNhaHang\\wwwroot\\js\\chart-pie-demo-3months.js",
+      "PackagePath": "staticwebassets\\js\\chart-pie-demo-3months.js"
+    },
+    {
+      "Id": "E:\\Ha_tin\\LapTrinhWeb\\QuanLyNhaHang\\QuanLyNhaHang\\wwwroot\\js\\chart-pie-demo-6months.js",
+      "PackagePath": "staticwebassets\\js\\chart-pie-demo-6months.js"
+    },
+    {
+      "Id": "E:\\Ha_tin\\LapTrinhWeb\\QuanLyNhaHang\\QuanLyNhaHang\\wwwroot\\js\\chart-pie-demo.js",
+      "PackagePath": "staticwebassets\\js\\chart-pie-demo.js"
+    },
+    {
+      "Id": "E:\\Ha_tin\\LapTrinhWeb\\QuanLyNhaHang\\QuanLyNhaHang\\wwwroot\\js\\chart.min.js",
+      "PackagePath": "staticwebassets\\js\\chart.min.js"
+    },
+    {
+      "Id": "E:\\Ha_tin\\LapTrinhWeb\\QuanLyNhaHang\\QuanLyNhaHang\\wwwroot\\js\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\js\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "E:\\Ha_tin\\LapTrinhWeb\\QuanLyNhaHang\\QuanLyNhaHang\\wwwroot\\js\\datatables-demo.js",
+      "PackagePath": "staticwebassets\\js\\datatables-demo.js"
+    },
+    {
+      "Id": "E:\\Ha_tin\\LapTrinhWeb\\QuanLyNhaHang\\QuanLyNhaHang\\wwwroot\\js\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\js\\jquery.dataTables.js"
+    },
+    {
+      "Id": "E:\\Ha_tin\\LapTrinhWeb\\QuanLyNhaHang\\QuanLyNhaHang\\wwwroot\\js\\jquery.easing.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.easing.min.js"
+    },
+    {
+      "Id": "E:\\Ha_tin\\LapTrinhWeb\\QuanLyNhaHang\\QuanLyNhaHang\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\Ha_tin\\LapTrinhWeb\\QuanLyNhaHang\\QuanLyNhaHang\\wwwroot\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\popper.min.js"
+    },
+    {
+      "Id": "E:\\Ha_tin\\LapTrinhWeb\\QuanLyNhaHang\\QuanLyNhaHang\\wwwroot\\js\\rc-pos.min.js",
+      "PackagePath": "staticwebassets\\js\\rc-pos.min.js"
+    },
+    {
+      "Id": "E:\\Ha_tin\\LapTrinhWeb\\QuanLyNhaHang\\QuanLyNhaHang\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\Ha_tin\\LapTrinhWeb\\QuanLyNhaHang\\QuanLyNhaHang\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\Ha_tin\\LapTrinhWeb\\QuanLyNhaHang\\QuanLyNhaHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\Ha_tin\\LapTrinhWeb\\QuanLyNhaHang\\QuanLyNhaHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\Ha_tin\\LapTrinhWeb\\QuanLyNhaHang\\QuanLyNhaHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\Ha_tin\\LapTrinhWeb\\QuanLyNhaHang\\QuanLyNhaHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\Ha_tin\\LapTrinhWeb\\QuanLyNhaHang\\QuanLyNhaHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\Ha_tin\\LapTrinhWeb\\QuanLyNhaHang\\QuanLyNhaHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Ha_tin\\LapTrinhWeb\\QuanLyNhaHang\\QuanLyNhaHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Ha_tin\\LapTrinhWeb\\QuanLyNhaHang\\QuanLyNhaHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Ha_tin\\LapTrinhWeb\\QuanLyNhaHang\\QuanLyNhaHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\Ha_tin\\LapTrinhWeb\\QuanLyNhaHang\\QuanLyNhaHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\Ha_tin\\LapTrinhWeb\\QuanLyNhaHang\\QuanLyNhaHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\Ha_tin\\LapTrinhWeb\\QuanLyNhaHang\\QuanLyNhaHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\Ha_tin\\LapTrinhWeb\\QuanLyNhaHang\\QuanLyNhaHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\Ha_tin\\LapTrinhWeb\\QuanLyNhaHang\\QuanLyNhaHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Ha_tin\\LapTrinhWeb\\QuanLyNhaHang\\QuanLyNhaHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Ha_tin\\LapTrinhWeb\\QuanLyNhaHang\\QuanLyNhaHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Ha_tin\\LapTrinhWeb\\QuanLyNhaHang\\QuanLyNhaHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\Ha_tin\\LapTrinhWeb\\QuanLyNhaHang\\QuanLyNhaHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\Ha_tin\\LapTrinhWeb\\QuanLyNhaHang\\QuanLyNhaHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\Ha_tin\\LapTrinhWeb\\QuanLyNhaHang\\QuanLyNhaHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\Ha_tin\\LapTrinhWeb\\QuanLyNhaHang\\QuanLyNhaHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\Ha_tin\\LapTrinhWeb\\QuanLyNhaHang\\QuanLyNhaHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Ha_tin\\LapTrinhWeb\\QuanLyNhaHang\\QuanLyNhaHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Ha_tin\\LapTrinhWeb\\QuanLyNhaHang\\QuanLyNhaHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Ha_tin\\LapTrinhWeb\\QuanLyNhaHang\\QuanLyNhaHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\Ha_tin\\LapTrinhWeb\\QuanLyNhaHang\\QuanLyNhaHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\Ha_tin\\LapTrinhWeb\\QuanLyNhaHang\\QuanLyNhaHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Ha_tin\\LapTrinhWeb\\QuanLyNhaHang\\QuanLyNhaHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\Ha_tin\\LapTrinhWeb\\QuanLyNhaHang\\QuanLyNhaHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\Ha_tin\\LapTrinhWeb\\QuanLyNhaHang\\QuanLyNhaHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Ha_tin\\LapTrinhWeb\\QuanLyNhaHang\\QuanLyNhaHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Ha_tin\\LapTrinhWeb\\QuanLyNhaHang\\QuanLyNhaHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Ha_tin\\LapTrinhWeb\\QuanLyNhaHang\\QuanLyNhaHang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\Ha_tin\\LapTrinhWeb\\QuanLyNhaHang\\QuanLyNhaHang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\Ha_tin\\LapTrinhWeb\\QuanLyNhaHang\\QuanLyNhaHang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\Ha_tin\\LapTrinhWeb\\QuanLyNhaHang\\QuanLyNhaHang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\Ha_tin\\LapTrinhWeb\\QuanLyNhaHang\\QuanLyNhaHang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\Ha_tin\\LapTrinhWeb\\QuanLyNhaHang\\QuanLyNhaHang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\Ha_tin\\LapTrinhWeb\\QuanLyNhaHang\\QuanLyNhaHang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\Ha_tin\\LapTrinhWeb\\QuanLyNhaHang\\QuanLyNhaHang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\Ha_tin\\LapTrinhWeb\\QuanLyNhaHang\\QuanLyNhaHang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\Ha_tin\\LapTrinhWeb\\QuanLyNhaHang\\QuanLyNhaHang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\Ha_tin\\LapTrinhWeb\\QuanLyNhaHang\\QuanLyNhaHang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Ha_tin\\LapTrinhWeb\\QuanLyNhaHang\\QuanLyNhaHang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\Ha_tin\\LapTrinhWeb\\QuanLyNhaHang\\QuanLyNhaHang\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Ha_tin\\LapTrinhWeb\\QuanLyNhaHang\\QuanLyNhaHang\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\Ha_tin\\LapTrinhWeb\\QuanLyNhaHang\\QuanLyNhaHang\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\Ha_tin\\LapTrinhWeb\\QuanLyNhaHang\\QuanLyNhaHang\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\Ha_tin\\LapTrinhWeb\\QuanLyNhaHang\\QuanLyNhaHang\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\Ha_tin\\LapTrinhWeb\\QuanLyNhaHang\\QuanLyNhaHang\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\Ha_tin\\LapTrinhWeb\\QuanLyNhaHang\\QuanLyNhaHang\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\Ha_tin\\LapTrinhWeb\\QuanLyNhaHang\\QuanLyNhaHang\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\Ha_tin\\LapTrinhWeb\\QuanLyNhaHang\\QuanLyNhaHang\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Ha_tin\\LapTrinhWeb\\QuanLyNhaHang\\QuanLyNhaHang\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\Ha_tin\\LapTrinhWeb\\QuanLyNhaHang\\QuanLyNhaHang\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\Ha_tin\\LapTrinhWeb\\QuanLyNhaHang\\QuanLyNhaHang\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.QuanLyNhaHang.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.QuanLyNhaHang.props",
+      "PackagePath": "build\\QuanLyNhaHang.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.QuanLyNhaHang.props",
+      "PackagePath": "buildMultiTargeting\\QuanLyNhaHang.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.QuanLyNhaHang.props",
+      "PackagePath": "buildTransitive\\QuanLyNhaHang.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
